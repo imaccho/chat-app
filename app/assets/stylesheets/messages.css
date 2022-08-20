@@ -43,7 +43,7 @@
 }
 
 .room-name a{
-  text-emphasis: none;
+  text-decoration: none;
   color: white;
 }
 
@@ -159,5 +159,5 @@
 }
 
 .hidden{
-  display: flex;
+  display: none;
 }
